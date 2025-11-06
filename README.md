@@ -39,9 +39,9 @@ Busco oportunidades para evoluir como desenvolvedor e criar produtos que façam 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **Web Currículo** | Meu currículo em formato de página web, leve e responsivo. | HTML • CSS • JS |
-| **Itacat (Em desenvolvimento)** | Aplicativo para registrar, localizar e compartilhar gatos pela cidade. | JS • Web API • UI |
-| **Mini Games e Prototipagens** | Projetos experimentais para estudos e evolução. | Unity • C# |
+[| **Web Currículo** ](https://kaua-lop.github.io/web-curriculo/)| Meu currículo em formato de página web, leve e responsivo. | HTML • CSS • JS |
+[| **Gerador de Senhas** ](https://kaua-lop.github.io/Password-Generator/)| Gerador de senhas em formato de página web, leve e responsivo. | HTML • CSS • JS |
+[| **Minha Primeira API** ](https://github.com/Kaua-lop/my-first-api)| Uma API Simples para listar e adicionar novas tarefas. | JS |
 
 *Você pode ver mais projetos diretamente nos repositórios.*
 
