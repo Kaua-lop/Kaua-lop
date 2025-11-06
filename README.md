@@ -41,9 +41,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaua-lop&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-lop&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kaua-lop&theme=tokyonight&hide_border=true)
 
 </div>
 
