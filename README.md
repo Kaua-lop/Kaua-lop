@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://i.imgur.com/rMZ6QpC.gif" width="100%" alt="animated hacker banner">
+  <!-- Banner animado estilo matrix/terminal -->
+  <img src="https://capsule-render.vercel.app/api?type=terminal&fontColor=00ff00&color=000000&height=120&section=header&text=Kauã%20Lopes%20-%20Front-end%20Developer" />
 </div>
 
-<h1 align="center">👋 Hello! I'm Kauã Lopes</h1>
+<h1 align="center">💻 Dark Mode Developer</h1>
 
 <p align="center">
-  Front-end Developer / Python • Software Engineering Student • Dark Mode Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=500&lines=Front-end+Developer;Python+Developer;Software+Engineering+Student;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -14,28 +15,28 @@
 
 I'm a Software Engineering student and Front-end developer focused on creating clean, functional, and impactful digital experiences.
 
-I currently work in infrastructure and system operations, which gives me valuable insight into how technology and users connect in real environments. I'm constantly improving my skills and exploring new technologies.
+I currently work in infrastructure and system operations, which gives me valuable insight into how technology and users interact in real environments. I'm constantly improving my skills and exploring new technologies.
 
 ---
 
 ## 🧠 Tech Stack
 
 #### **Front-end**
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### **Back-end / Logic**
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=512BD4)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
 
 #### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=005C84)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=005C84)
 
 #### **Tools**
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -69,8 +70,6 @@ I currently work in infrastructure and system operations, which gives me valuabl
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/rMZ6QpC.gif" width="100%" alt="matrix footer">
-</p>
-
-<p align="center">Made with 💚 in Dark Mode</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&fontColor=00ff00&height=120&section=footer" />
+</div>
