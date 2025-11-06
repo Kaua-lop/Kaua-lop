@@ -1,72 +1,76 @@
-<h1 align="center">👋 Olá! Eu sou o Kauã Lopes</h1>
+<div align="center">
+  <img src="https://i.imgur.com/rMZ6QpC.gif" width="100%" alt="animated hacker banner">
+</div>
+
+<h1 align="center">👋 Hello! I'm Kauã Lopes</h1>
 
 <p align="center">
-  Programador Front-end / Python • Estudante de Engenharia de Software • Apaixonado por tecnologia e criação de experiências
+  Front-end Developer / Python • Software Engineering Student • Dark Mode Enthusiast
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou estudante de Engenharia de Software e programador Front-end com foco em desenvolvimento web e projetos pessoais que misturam criatividade e solução real de problemas. Atualmente atuo na área de infraestrutura e operação de sistemas, o que me dá visão prática de como tecnologia e usuários se conectam no dia a dia.
+I'm a Software Engineering student and Front-end developer focused on creating clean, functional, and impactful digital experiences.
 
-Busco oportunidades para evoluir como desenvolvedor e criar produtos que façam sentido para as pessoas.
+I currently work in infrastructure and system operations, which gives me valuable insight into how technology and users connect in real environments. I'm constantly improving my skills and exploring new technologies.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧠 Tech Stack
 
 #### **Front-end**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### **Back-end / Lógica**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### **Back-end / Logic**
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
 
-#### **Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+#### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=005C84)
 
-#### **Outros**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🧩 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-[| **Web Currículo** ](https://kaua-lop.github.io/web-curriculo/)| Meu currículo em formato de página web, leve e responsivo. | HTML • CSS • JS |
-[| **Gerador de Senhas** ](https://kaua-lop.github.io/Password-Generator/)| Gerador de senhas em formato de página web, leve e responsivo. | HTML • CSS • JS |
-[| **Minha Primeira API** ](https://github.com/Kaua-lop/my-first-api)| Uma API Simples para listar e adicionar novas tarefas. | JS |
-
-*Você pode ver mais projetos diretamente nos repositórios.*
+#### **Tools**
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## 🧩 Featured Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **Web Curriculum** | <a href="https://kaua-lop.github.io/web-curriculo/">A responsive and lightweight web-based resume.</a> | HTML • CSS • JS |
+| **Password Generator** | <a href="https://kaua-lop.github.io/Password-Generator/">A simple and clean web password generator.</a> | HTML • CSS • JS |
+| **My First API** | <a href="https://github.com/Kaua-lop/my-first-api">A basic API for listing and adding tasks.</a> | JavaScript |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-lop&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-lop&show_icons=true&theme=chartreuse-dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-lop&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-lop&layout=compact&theme=chartreuse-dark)
 
 </div>
 
 ---
 
-## 🌐 Contato
-
-Me chama, bora conversar ou colaborar em algo! ✨
+## 🌐 Contact
 
 📩 Email: **kaua.pythondev@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/kaualopes  
-🌍 Portfólio Web: https://kaua-lop.github.io/web-curriculo/
+🌍 Portfolio: https://kaua-lop.github.io/web-curriculo/
 
 ---
 
-<p align="center">Feito com 💙 e muita curiosidade</p>
+<p align="center">
+  <img src="https://i.imgur.com/rMZ6QpC.gif" width="100%" alt="matrix footer">
+</p>
+
+<p align="center">Made with 💚 in Dark Mode</p>
