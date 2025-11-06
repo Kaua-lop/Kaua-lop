@@ -1,13 +1,6 @@
 <div align="center">
-  <!-- Banner animado estilo matrix/terminal -->
-  <img src="https://capsule-render.vercel.app/api?type=terminal&fontColor=00ff00&color=000000&height=120&section=header&text=Kauã%20Lopes%20-%20Front-end%20Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=$+whoami;Kauã+Lopes;$+role;Front-end+Developer+%26+Python;$+motto;Always+Learning...">
 </div>
-
-<h1 align="center">💻 Dark Mode Developer</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=500&lines=Front-end+Developer;Python+Developer;Software+Engineering+Student;Always+Learning+New+Things" />
-</p>
 
 ---
 
@@ -64,12 +57,11 @@ I currently work in infrastructure and system operations, which gives me valuabl
 
 ## 🌐 Contact
 
-📩 Email: **kaua.pythondev@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/kaualopes  
-🌍 Portfolio: https://kaua-lop.github.io/web-curriculo/
+📩 **Email:** kaua.pythondev@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/kaualopes  
+🌍 **Portfolio:** https://kaua-lop.github.io/web-curriculo/
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&fontColor=00ff00&height=120&section=footer" />
-</div>
+<p align="center">Made in 🔥 Dark Mode 🔥</p>
+
