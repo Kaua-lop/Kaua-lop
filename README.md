@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=$+whoami;Kauã+Lopes;$+role;Front-end+Developer+%26+Python;$+motto;Always+Learning...">
 </div>
@@ -63,5 +64,7 @@ I currently work in infrastructure and system operations, which gives me valuabl
 
 ---
 
-<p align="center">Made in 🔥 Dark Mode 🔥</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=4500&pause=900&color=00FF00&background=00000000&center=true&vCenter=true&width=620&height=80&lines=Códigos+são+poesias+feitas+por+máquinas_;Interpretadas+por+humanos_;Sentidas+por+quem+cria_">
+</div>
 
