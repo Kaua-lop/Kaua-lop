@@ -65,7 +65,7 @@ I currently work in infrastructure and system operations, which gives me valuabl
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=4500&pause=900&color=00FF00&background=00000000&center=true&vCenter=true&width=620&height=80&lines=Code+is+poetry+written+by+machines_;Interpreted+by+humans_;Felt+by+those+who+create_">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=4200&pause=1200&color=00FF00&center=true&vCenter=true&width=650&height=80&lines=Code+is+poetry+written+by+machines_;Interpreted+by+humans_;Felt+by+those+who+create_;Crafted+in+silence%2C+understood+in+thought_">
 </div>
 
 
